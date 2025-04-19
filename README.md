@@ -19,7 +19,7 @@ Inspired by [Forrest Brazeal's Cloud Resume Challenge](https://cloudresumechalle
 ## 👨‍💻 About Me
 
 **Emmanuel Stephen**  
-Cloud Engineer | IoT Developer | Aspiring SDE  
+Aspiring Cloud Engineer | IoT Developer |  SDE  
 📧 emmanuelstephen0804@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/emmanuel-stephen-7a35a2259/)  
 🐙 [GitHub](https://github.com/immanuel2711)
