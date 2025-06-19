@@ -12,7 +12,7 @@ Inspired by [Forrest Brazeal's Cloud Resume Challenge](https://cloudresumechalle
 - **HTML, CSS, JavaScript** frontend
 - **AWS S3 + CloudFront** for static hosting & HTTPS
 - **AWS API Gateway + Lambda + DynamoDB** for visitor count backend
-- All within the **AWS Free Tier** (₹0 cost project)
+
 
 ---
 
